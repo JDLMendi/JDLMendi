@@ -32,7 +32,7 @@ Not Ready! 🤭
 	  <li>🎮 Video Games</li>
 	  <li>📖 Reading</li>
     <li>🎵 Music (No set preference!)</li>
-    <li>🤖 Artificial Intelligence/Machine Learning (No set preference!)</li>
+    <li>🤖 Artificial Intelligence/Machine Learning</li>
     <li>📕 Theory of Computation</li>
 	</ul>
 
