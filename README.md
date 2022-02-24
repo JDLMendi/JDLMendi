@@ -14,9 +14,9 @@
 ---
 Hey There! 👋
 
-My name is **_Jhundon Mendi_** (he/him), a **Computer Science** Student at University and Math Tutor in Training! At the moment, I don't exactly have a set career in mind but I am looking forward to see where it takes me.
+My name is **Jhundon Mendi** (he/him), a **Computer Science** Student at University and Math Tutor in Training! At the moment, I don't exactly have a set career in mind but I am looking forward to see where it takes me.
 
-I am mainly using Git just to help me **keep track of my current assignments and projects**, as well as having _back-ups of my Notes_!
+I am mainly using GitHub just to help me **keep track of my current assignments and projects**, as well as having _back-ups of my Notes_!
 ### ⛓️ Links
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jmendi2021/)
 <!--
