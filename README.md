@@ -33,7 +33,7 @@ Not Ready! 🤭
 	  <li>📖 Reading</li>
     <li>🎵 Music (No set preference!)</li>
     <li>🤖 Artificial Intelligence/Machine Learning (No set preference!)</li>
-    <li>📕 Theory of Computation (No set preference!)</li>
+    <li>📕 Theory of Computation</li>
 	</ul>
 
   <h4>Programming Learning:</h4>
