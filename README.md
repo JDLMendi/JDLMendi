@@ -36,7 +36,7 @@ Not Ready! 🤭
     <li>📕 Theory of Computation</li>
 	</ul>
 
-  <h4>Programming Learning:</h4>
+  <h4>Current Projects:</h4>
   <ul>
 	  <li>Tic Tac Toe with Minimax Algorithm</li>
 	</ul>
