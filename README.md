@@ -16,7 +16,7 @@ Hey There! 👋
 
 My name is **Jhundon De Leon Mendi** (he/him), a First Year **Computer Science** Student at **_University Of Birmingham_!**
 
-I am mainly using GitHub just to help me **keep track of my current assignments and projects**, as well as having _back-ups of my Notes_!
+I am mainly using GitHub just to help me **keep track of my current assignments, learning and projects**, as well as having back-ups of my Notes!
 ### ⛓️ Links
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jmendi2021/)
 <!--
