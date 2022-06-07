@@ -28,18 +28,11 @@ Not Ready! 🤭
 <details>
 <summary>Extra</summary>  
   <h4>Things that I enjoy:</h4>
-  <ul>
+  	<ul>
 	  <li>🎮 Video Games</li>
 	  <li>📖 Reading</li>
-    <li>🎵 Music (No set preference!)</li>
-    <li>🤖 Artificial Intelligence/Machine Learning</li>
-    <li>📕 Theory of Computation</li>
+	  <li>🎵 Music (No set preference!)</li>
+	  <li>🤖 Artificial Intelligence/Machine Learning</li>
 	</ul>
-
-  <h4>Current Projects:</h4>
-  <ul>
-	  <li>Tic Tac Toe with Minimax Algorithm</li>
-	</ul>
-  
   <h4> 📓 Note Taking Application: Obsidian </h4>
 </details>
