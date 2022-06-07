@@ -14,7 +14,7 @@
 ---
 Hey There! 👋
 
-My name is **Jhundon De LEon Mendi** (he/him), a First Year **Computer Science** Student at University Of Birmingham! At the moment, I don't exactly have a set career in mind but I am looking forward to see where it takes me.
+My name is **Jhundon De Leon Mendi** (he/him), a First Year **Computer Science** Student at **_University Of Birmingham_!**
 
 I am mainly using GitHub just to help me **keep track of my current assignments and projects**, as well as having _back-ups of my Notes_!
 ### ⛓️ Links
