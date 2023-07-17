@@ -19,7 +19,7 @@ My name is **Jhundon De Leon Mendi** (he/him), an *upcoming* Second Year **Compu
 I am mainly using GitHub just to help me **keep track of my current assignments, learning and projects**, as well as having back-ups of my Notes!
 ### ⛓️ Links
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jmendi2021/)
-- 🌐 Website: [![Website Badge](https://img.shields.io/badge/-Website-purple?style=flat&logo=Website&logoColor=white)](https://jmendi2021.github.io/website/)
+- 🌐 Website: [![Website Badge](https://img.shields.io/badge/-Website-purple?style=flat&logo=Website&logoColor=white)](https://jmendi2021.github.io/website)
 <details>
 <summary>Extra</summary>  
   <h4>Things that I enjoy:</h4>
