@@ -14,7 +14,7 @@
 ---
 Hey There! 👋
 
-My name is **Jhundon De Leon Mendi** (he/him), an *upcoming* Second Year **Computer Science** Student at **_University Of Birmingham_!**
+My name is **Jhundon De Leon Mendi** (he/him), an *upcoming* third Year **Computer Science** Student at **_University Of Birmingham_!**
 
 I am mainly using GitHub just to help me **keep track of my current assignments, learning and projects**, as well as having back-ups of my Notes!
 ### ⛓️ Links
