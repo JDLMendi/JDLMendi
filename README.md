@@ -20,3 +20,5 @@ I am mainly using GitHub just to help me **keep track of my current assignments,
 ### ⛓️ Links
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jmendi2021/)
 - 🌐 Website: [![Website Badge](https://img.shields.io/badge/-Website-purple?style=flat&logo=Website&logoColor=white)](https://jdlmendi.github.io/site)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDLMendi&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
