@@ -21,4 +21,4 @@ I am mainly using GitHub just to help me **keep track of my current assignments,
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jmendi2021/)
 - 🌐 Website: [![Website Badge](https://img.shields.io/badge/-Website-purple?style=flat&logo=Website&logoColor=white)](https://jdlmendi.codes/)
 
-Site Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/8c0f3a89-9f22-48a9-981b-fd47a1924a36/deploy-status)](https://app.netlify.com/sites/jdlmendi/deploys)
+Site Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/72703ba8-1f05-4e9a-8969-e6f7b95fe0f8/deploy-status)](https://app.netlify.com/projects/jdlmendi-dot-dev/deploys)
